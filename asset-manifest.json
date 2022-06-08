@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sergey-Diadiushkin/goit-react-hw-01-components/static/css/main.e39dcde6.css",
+    "main.js": "/Sergey-Diadiushkin/goit-react-hw-01-components/static/js/main.50b29fbf.js",
+    "index.html": "/Sergey-Diadiushkin/goit-react-hw-01-components/index.html",
+    "main.e39dcde6.css.map": "/Sergey-Diadiushkin/goit-react-hw-01-components/static/css/main.e39dcde6.css.map",
+    "main.50b29fbf.js.map": "/Sergey-Diadiushkin/goit-react-hw-01-components/static/js/main.50b29fbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e39dcde6.css",
+    "static/js/main.50b29fbf.js"
+  ]
+}
